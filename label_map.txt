@@ -1,5 +1,5 @@
 item { id:1,name:'Buoi'}
 item { id:2,name:'Khe'}
 item { id:3,name:'Coc'}
-item { id:4,name:'Can'}
+item { id:4,name:'Cam'}
 item { id:5,name:'Mit'}
